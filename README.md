@@ -1,2 +1,2 @@
-##LINK PARA VOCÊ TESTAR O SITE:
+## LINK PARA VOCÊ TESTAR O SITE:
 https://arthurvdev.github.io/Stats-Brawlhalla/
